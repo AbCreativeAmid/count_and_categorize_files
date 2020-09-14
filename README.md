@@ -4,8 +4,8 @@ The app provides a report that shows how many files from each type of file you h
 ## Features
 - This app get the name of directory from the user, user can enter any directory he/she wants.
 - app validate the input of user does it exist in directories or no if yes it will be   continued otherwise app request for another input.
-- app walk through all the sub directories and find the files and categorize them and at end export the result as a excel file which is so easy to undrestand.
-- app will continue to its untill the user don't terminat the app.
+- app walk through all the sub directories and find the files and categorize them.at end export the result as a excel file, which is so easy to undrestand.
+- app will continue to its process, untill the user doesn't terminat the app.
 - user can terminate the app anytime by entering 0.
 ## Getting started
 Prerequisites:
