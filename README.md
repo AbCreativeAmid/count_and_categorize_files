@@ -23,12 +23,12 @@ Running App:
 - At first the app shows a brief description of app it shows app is insalled and working successfuly
   is installed
 ## How Does It Work?
-- This app consist three modules file_handling.py write_in_excel.py and __init__.py
-- In file handling module the input will be validated and all the files will be fetched and categorized.
-- In write_in_excel module the result of file_handling module will be written in excel file
-- In __init__ module, it is for intracting with user get the user input and uses two other modules for completing the tast and shows the out to the user.
+- This app consist three modules file_handling.py, write_in_excel.py and __init__.py
+- In 'file_handling.py' module the input will be validated and all the files will be fetched and categorized.
+- In 'write_in_excel.py' module the result of file_handling.py module will be written in excel file
+- In '__init__.py' module, it is for intracting with user get the user input and uses two other modules for completing the task, and shows the output to the user.
 - when you run the app after the brief description-->
-- app ask for directory name 
+- app asks for directory name 
 - then app asks for generating excel report and the name of report( you can enter the name of report )
 - then app asks for another directory
 - you can repeat for all directory you want 
